@@ -51,3 +51,6 @@ This task involves aggregation, grouping, and ranking queries on the movie datab
 3. Run the queries against your PostgreSQL database.
 4. Review the output results stored in result.txt.
 
+## License
+This project is open source and available under the [MIT License](LICENSE).
+
